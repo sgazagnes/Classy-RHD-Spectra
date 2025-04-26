@@ -75,7 +75,7 @@ This is an overview of the main figures in the paper, which are reproducible usi
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Plotss/SFR_histogram_sketch.png" width="55%" />
+          <img src="Plots/SFR_histogram_sketch.png" width="55%" />
       </div>
 
 
