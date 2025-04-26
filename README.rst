@@ -27,7 +27,7 @@ Contents
 - `ClassySpectra/` — Observational data from the CLASSY survey
 - `Measurements/` —  The csv files containing the relevant data measurements.
 - `Paper/` — Contains the article pdf
-- `Notebooks/` — Jupyter notebooks for making the anaalysis and producing the paper figures
+- `Notebooks/` — Jupyter notebooks for making the analysis and producing the paper figures
 - `Plots/` — Figures from the paper (see examples below)
 
 Result figures:
