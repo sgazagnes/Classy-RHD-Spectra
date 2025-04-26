@@ -69,6 +69,13 @@ This is an overview of the main figures in the paper, which are reproducible usi
           <img src="Plots/chisquare_dep.png" width="40%" />
       </div>
 
+4. Spatial analysis:
+
+   .. raw:: html
+
+      <div style="display: flex; justify-content: space-between;">
+          <img src="Plots/contourJ0926_SiIIV3.png" width="60%" />
+      </div>
 
 5. Physical interpretation
 
