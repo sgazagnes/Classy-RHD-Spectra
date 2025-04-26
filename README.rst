@@ -1,5 +1,5 @@
-Interpreting the Si II and C II Line Spectra from CLASSY Using a High-resolution Radiation-hydrodynamic Simulation
-==================================================================================================================
+Interpreting the Si II and C II Line Spectra from CLASSY: Using a High-resolution Radiation-hydrodynamic Simulation
+===================================================================================================================
 
 This repository contains data, code, and plots associated with:
 
