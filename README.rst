@@ -1,5 +1,5 @@
-Interpreting the Si II and C II Line Spectra from the COS Legacy ArchiveSpectroscopic SurveY Using a Virtual Galaxy from a High-resolution Radiation-hydrodynamic Simulation
-=============================================================================================================================================================================
+Interpreting the Si II and C II Line Spectra from CLASSY Using a High-resolution Radiation-hydrodynamic Simulation
+==================================================================================================================
 
 This repository contains data, code, and plots associated with:
 
@@ -12,10 +12,11 @@ Summary
 We investigate how mock ultraviolet (UV) spectra, generated from a single high-resolution radiation-hydrodynamic simulation, can reproduce and interpret observations of low-ionization Si II and C II metal lines in galaxies.
 
 Specifically:
-- 22,500 mock C II and Si II spectra were created from a simulated galaxy and compared to observations of 45 star-forming galaxies from the CLASSY survey.
-- We show that the simulated spectra successfully replicate the observed line properties and shape for 87% of the CLASSY sample.
-- We demonstrate that fluorescent emission features are sensitive to aperture losses and originate from extended regions of the ISM.
-- Our results highlight that realistic galaxy simulations can be used to interpret complex ISM diagnostics in UV observations.
+
+- `22,500 mock C II and Si II spectra were created from a simulated galaxy and compared to observations of 45 star-forming galaxies from the CLASSY survey.`
+- `We show that the simulated spectra successfully replicate the observed line properties and shape for 87% of the CLASSY sample.`
+- `We demonstrate that fluorescent emission features are sensitive to aperture losses and originate from extended regions of the ISM.`
+- `Our results highlight that realistic galaxy simulations can be used to interpret complex ISM diagnostics in UV observations.`
 
 Reproducing these results require the RHD simulation data which is not public, but available upon reasonable request.
 
@@ -39,7 +40,7 @@ This is an overview of the main figures in the paper, which are reproducible usi
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Plots/VirtualGaalClassyprop.png" width="85%" />
+          <img src="Plots/VirtualGalClassyprop.png" width="85%" />
       </div>
 
 2. Lines properties comparison:
@@ -65,7 +66,7 @@ This is an overview of the main figures in the paper, which are reproducible usi
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Plots/chisquare-dep.png" width="40%" />
+          <img src="Plots/chisquare_dep.png" width="40%" />
       </div>
 
 
@@ -74,7 +75,7 @@ This is an overview of the main figures in the paper, which are reproducible usi
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Plotss/SFR_histograam_sketch.png" width="55%" />
+          <img src="Plotss/SFR_histogram_sketch.png" width="55%" />
       </div>
 
 
