@@ -74,7 +74,7 @@ This is an overview of the main figures in the paper, which are reproducible usi
    .. raw:: html
 
       <div style="display: flex; justify-content: space-between;">
-          <img src="Plots/contourJ0926_SiIIV3.png" width="60%" />
+          <img src="Plots/contourJ0926_SiIIV3.png" width="80%" />
       </div>
 
 5. Physical interpretation
